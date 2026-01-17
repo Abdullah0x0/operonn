@@ -1,0 +1,8 @@
+gene1_id,gene1_name,gene2_id,gene2_name,distance_bp,correlation,probability,prediction
+gene-001,geneA,gene-002,geneB,50,0.9989,0.948,same_operon
+gene-002,geneB,gene-003,geneC,50,0.9957,0.9469,same_operon
+gene-003,geneC,gene-004,geneD,100,-0.8999,0.1324,different_operon
+gene-005,geneE,gene-006,geneF,100,0.9975,0.9002,same_operon
+gene-006,geneF,gene-007,geneG,100,0.906,0.8389,same_operon
+gene-008,geneH,gene-009,geneI,50,1.0,0.9484,same_operon
+gene-009,geneI,gene-010,geneJ,100,-0.9153,0.1312,different_operon

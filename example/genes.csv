@@ -1,0 +1,12 @@
+gene,name,type,start,end,strand
+gene-001,geneA,CDS,100,500,+
+gene-002,geneB,CDS,550,1200,+
+gene-003,geneC,CDS,1250,2000,+
+gene-004,geneD,CDS,2100,2800,+
+gene-005,geneE,CDS,3000,3500,-
+gene-006,geneF,CDS,3600,4200,-
+gene-007,geneG,CDS,4300,5000,-
+gene-008,geneH,CDS,5200,5800,+
+gene-009,geneI,CDS,5850,6500,+
+gene-010,geneJ,CDS,6600,7200,+
+
